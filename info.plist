@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>x@pragbe.fr</string>
+	<key>contactName</key>
+	<string>Kristian Larsson</string>
+	<key>description</key>
+	<string>Support for &lt;a href="http://www.acton-lang.org"&gt;Acton&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Acton</string>
+	<key>uuid</key>
+	<string>F0BF8B90-4A9B-4A31-AD0D-A521BD41D987</string>
+</dict>
+</plist>
